@@ -8,10 +8,10 @@
 <h2> Seja, bem vindo!</h2>
 </div>
 </br>
-<div align="center">
+<div align="center" display="flex">
   <div align="center">
   <a href="https://github.com/Gabriel-Medeiros-faria">
-  <img  height="180em" width="42%"  src="https://github-readme-stats.vercel.app/api?username=Gabriel-Medeiros-faria&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Medeiros-faria&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     </div>
 </br>
   <div align="center">
