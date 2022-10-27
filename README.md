@@ -11,11 +11,11 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/Gabriel-Medeiros-faria">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Medeiros-faria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Medeiros-Faria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Medeiros-faria&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Medeiros-Faria&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 </br>
@@ -36,7 +36,6 @@
   <a href="https://www.linkedin.com/in/gabriel-medeiros-faria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Medeiros-Faria/count.svg" /></p>
 
 
 ![snake gif](https://github.com/Gabriel-Medeiros-faria/Gabriel-Medeiros-faria/blob/output/github-contribution-grid-snake.svg)
