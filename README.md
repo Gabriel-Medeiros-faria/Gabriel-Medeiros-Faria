@@ -1,40 +1,54 @@
-### Olá, eu sou Gabriel 👋
 
+<a align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=C7F601&center=true&vCenter=true&width=900&height=60&lines=Ol%C3%A1%2C++seja+bem+vindo!+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+</br>
 
-- 🔭 apaixonado por programação
+## 👽 Sobre mim
 
+Conheci a programação por meio dos jogos quando eu ainda era pequeno, hoje descidi virar um profissional na área. Atualmente aluno da @driveneducation, o melhor bootcamp do Brasil. Adoro passar minha horas vagas em projetos pessoais e conhecendo novas tecnologias!
+ 
+  - 🚀 Sempre aprendendo
+  - 🎛️ Fã nº 1 de React
+  - 🗯️ Vamos conversar sobre as tecnlogias!
+  - 😄 Ele/dele
 
-<div align="center">
-<h2> Seja, bem vindo!</h2>
-</div>
-</br>
-<div align="center" display="flex">
-  <div align="center">
-  <a href="https://github.com/Gabriel-Medeiros-faria">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Medeiros-faria&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Medeiros-faria&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
+## ⚙️ Tecnologias
 
  <div align="center">
-  <a href="https://www.instagram.com/_gabmedeiros__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielmedeirosvino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-medeiros-faria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C#"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker"/>
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"/>
 </div>
+</br>
+
+## 💬 Contato
+
+<div>
+  <a href="mailto:gabrielmedeirosvino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> 
+  <a href="https://www.linkedin.com/in/gabrielmedeirosdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
+</div>
+    
+ ##
+    
+ <div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Medeiros-faria&show_icons=true&theme=merko" alt="Gabriel-Medeiros-faria"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Medeiros-faria&layout=compact&theme=merko" alt="Gabriel-Medeiros-faria"/>
+</div> 
 </br>
 
 
