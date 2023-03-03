@@ -39,7 +39,7 @@ Conheci a programação por meio dos jogos quando eu ainda era pequeno, hoje des
 ## 💬 Contato
 
 <div>
-  <a href="mailto:gabrielmedeirosvino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> 
+  <a href="gabrielmedeirosvino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> 
   <a href="https://www.linkedin.com/in/gabrielmedeirosdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
 </div>
     
