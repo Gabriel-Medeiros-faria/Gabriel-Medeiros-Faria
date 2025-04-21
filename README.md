@@ -10,7 +10,7 @@ Conheci a programação por meio dos jogos quando eu ainda era pequeno, hoje des
  
   - 🚀 Sempre aprendendo
   - 🎛️ Fã nº 1 de React
-  - 🗯️ Vamos conversar sobre as tecnlogias!
+  - 🗯️ Vamos conversar sobre as tecnologias!
   - 😄 Ele/dele
 
 ## ⚙️ Tecnologias
